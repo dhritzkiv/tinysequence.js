@@ -1,3 +1,3 @@
 # tinysequence.js
 
-An extremely tiny sequence generator.
+An extremely tiny (257 bytes) sequence generator.

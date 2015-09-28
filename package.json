@@ -1,5 +1,21 @@
 {
-  "private": true,
+  "name": "tinysequence.js",
+  "version": "1.0.0",
+  "description": "An extremely tiny (257 bytes) sequence generator.",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:syropian/tinysequence.js.git"
+  },
+  "keywords": [
+    "sequence",
+    "javascript",
+  ],
+  "author": "Collin Henderson <collin@syropia.net> (http://syropia.net)",
+  "license": "MIT",
+  "main": "tinysequence.js",
+  "bugs": {
+    "url": "https://github.com/syropian/tinysequence.js/issues"
+  },
   "devDependencies": {
     "gulp": "^3.9.0",
     "gulp-rename": "^1.2.2",

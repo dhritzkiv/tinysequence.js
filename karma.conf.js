@@ -5,6 +5,7 @@ module.exports = function(config) {
       'tinysequence.js',
       'spec/**/*.spec.js'
     ],
+    singleRun: true,
     browsers: ['PhantomJS'],
     reporters: ['spec']
   });

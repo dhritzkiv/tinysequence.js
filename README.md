@@ -2,6 +2,8 @@
 
 An extremely tiny (257 bytes) sequence generator.
 
+[![Build Status](https://travis-ci.org/syropian/tinysequence.js.svg?branch=master)](https://travis-ci.org/syropian/tinysequence.js)
+
 ## Install
 
 #### Through NPM

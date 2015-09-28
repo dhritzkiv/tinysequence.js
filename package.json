@@ -6,6 +6,9 @@
     "type": "git",
     "url": "git@github.com:syropian/tinysequence.js.git"
   },
+  "scripts": {
+    "test": "karma start"
+  },
   "keywords": [
     "sequence",
     "javascript"

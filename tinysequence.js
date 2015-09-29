@@ -1,10 +1,10 @@
 var ts = function(count, delimiter, transform) {
   var a = Array.apply(0, Array(count)).map(function(x, y) {
-    if (transform && typeof transform === "function") {
-      y = transform(y);
-    }
     return y;
   });
+  if (typeof transform === "function") {
+    a = a.map(transform);
+  }
   if (delimiter) {
     a = a.join(delimiter);
   }

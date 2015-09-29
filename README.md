@@ -12,6 +12,12 @@ An extremely tiny (257 bytes) sequence generator.
 npm install tinysequence.js
 ```
 
+#### Through Bower
+
+```
+bower install tinysequence.js
+```
+
 #### In the browser
 
 ```

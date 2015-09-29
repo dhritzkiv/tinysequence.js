@@ -1,0 +1,28 @@
+{
+  "name": "tinysequence",
+  "main": "tinysequence.js",
+  "version": "1.0.1",
+  "homepage": "https://github.com/syropian/tinysequence.js",
+  "authors": [
+    "Collin Henderson <collin@syropia.net> (http://syropia.net)"
+  ],
+  "description": "An extremely tiny (257 bytes) sequence generator.",
+  "moduleType": [
+    "globals",
+    "node"
+  ],
+  "keywords": [
+    "sequence",
+    "javascript"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "node_modules",
+    "bower_components",
+    "spec"
+    ".travis.yml"
+    "gulpfile.js"
+    "karma.conf.js"
+    "package.json"
+  ]
+}
